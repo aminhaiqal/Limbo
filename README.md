@@ -32,4 +32,4 @@ Managing repetitive tasks in modern workflows can be tedious and time-consuming.
 
 ### License
 
-This project is licensed under the MIT License - see the `LICENSE` file for details.
+This project is licensed under the Apache License 2.0 - see the `LICENSE` file for details.
